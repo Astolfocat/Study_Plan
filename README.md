@@ -24,3 +24,5 @@ Typora 食用方法和 Markdown 语法（完成~）
 3. hexo s
 
 然后就可以在本地查看了~
+
+要保存到GitHub上则是 hexo g
