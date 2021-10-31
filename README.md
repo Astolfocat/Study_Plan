@@ -29,3 +29,5 @@ Typora 食用方法和 Markdown 语法（完成~）
 >[Hexo 站点配置文件内容解释](https://blog.csdn.net/lijing742180/article/details/85722664)  
 >[Hexo 站点配置文件_config详解](https://vonsdite.github.io/posts/e990fc02.html)  
 >[第2章-Hexo博客美化 | shkoa的配置范例](https://blog.csdn.net/BetrayVirginia/article/details/113572364)  
+
+博客大概可以开始写了，但是那个分类和标签好晕啊~到底是把自己学的某一个知识作为标签还是作为分类呢（头大）
