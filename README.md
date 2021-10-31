@@ -30,4 +30,16 @@ Typora 食用方法和 Markdown 语法（完成~）
 >[Hexo 站点配置文件_config详解](https://vonsdite.github.io/posts/e990fc02.html)  
 >[第2章-Hexo博客美化 | shkoa的配置范例](https://blog.csdn.net/BetrayVirginia/article/details/113572364)  
 
-博客大概可以开始写了，但是那个分类和标签好晕啊~到底是把自己学的某一个知识作为标签还是作为分类呢（头大）
+博客大概可以开始写了，但是那个分类和标签好晕啊~到底是把自己学的某一个知识作为标签还是作为分类呢（头大）  
+
+---
+现在又发现了个问题，每次更新笔记的时候都要在GitHub这边和博客那边都更新一份，好麻烦呀555~  
+那么以后这边就只做简单记录，详细笔记全丢博客去了吧~~~~~~（好耶可以偷懒了）~~  
+博客在这：
+- [阿福の可爱猫窝](https://astolfocat.github.io/)  
+
+做的不好看呜呜呜，名字还恶心心  
+
+---
+另外因为保存了大量阿福的图片，强迫症又想统一名字，于是用Python写了个自动给大量文件重命名的代码（好耶）果然需求就是第一生产力欸嘿嘿  
+- [地址戳我戳我](https://github.com/Astolfocat/Python/blob/main/Python.md)
