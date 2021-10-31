@@ -8,8 +8,7 @@ Typora 食用方法和 Markdown 语法（完成~）
 
 开始尝试搭建自己的博客（进行时）
 >教程：[手把手教你从0开始搭建自己的个人博客 |无坑版视频教程| hexo](https://www.bilibili.com/video/BV1Yb411a7ty?p=1&share_medium=android&share_plat=android&share_source=QQ&share_tag=s_i&timestamp=1635581158&unique_k=eSoVqM)
->>涉及其他教程：
->>
+>>涉及其他教程：  
 >>[windows下GitHub的SSH key配置](https://www.jianshu.com/p/9317a927e844)
 
 - 完成进度：已经成功部署到GitHub上啦~（鼓掌）
@@ -26,3 +25,8 @@ Typora 食用方法和 Markdown 语法（完成~）
 然后就可以在本地查看了~
 
 要保存到GitHub上则是 hexo d
+
+>资料：  
+>[Hexo 站点配置文件_config详解](https://vonsdite.github.io/posts/e990fc02.html)  
+>[第2章-Hexo博客美化 | shkoa的配置范例](https://blog.csdn.net/BetrayVirginia/article/details/113572364)  
+>[Hexo 站点配置文件内容解释](https://blog.csdn.net/lijing742180/article/details/85722664)
