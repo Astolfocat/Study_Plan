@@ -5,4 +5,8 @@
 
 今天的目标就是思考一个比较好的运营体系出来。  
 > 参考资料：
->- [Hexo 一篇文章多个 categories](https://www.jianshu.com/p/bff1b1845ac9?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+>- [Hexo 一篇文章多个 categories](https://www.jianshu.com/p/bff1b1845ac9?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)  
+
+博客弄得差不多了（关于部分的模块还不会弄QAQ）  
+~~明天再想运营体系吧~~
+
